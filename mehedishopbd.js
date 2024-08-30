@@ -1,4 +1,4 @@
-var gplink = "https://aff.mehedibhai.shop/?utm_medium=a7a4256eeb93984557a5759183001ab09f5e926a&utm_campaign=Nargisgp";
+var gplink = "https://aff.mehedibhai.shop/?utm_medium=352186f63618f221f9e6e52811353246c78dc4dc&utm_campaign=Mmehedigp";
 var bllink = "https://aff.mehedibhai.shop/?utm_medium=ab9d5b4d34018883bf48089858135b025aab29c0&utm_campaign=Mayabl";
-var arlink = "https://aff.mehedibhai.shop/?utm_medium=57d0f1043520efc3b5a56e0480e7257cb4199b71&utm_campaign=Silpirobiartel";
-var rblink = "https://aff.mehedibhai.shop/?utm_medium=57d0f1043520efc3b5a56e0480e7257cb4199b71&utm_campaign=Silpirobiartel";
+var arlink = "https://aff.mehedibhai.shop/?utm_medium=bb9001f8e9ff1705b589cc77de676115358409c3&utm_campaign=Mmehediartelrobi";
+var rblink = "https://aff.mehedibhai.shop/?utm_medium=bb9001f8e9ff1705b589cc77de676115358409c3&utm_campaign=Mmehediartelrobi";
